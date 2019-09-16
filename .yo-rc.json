@@ -1,0 +1,32 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.nola.raj.user"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "microservice",
+    "baseName": "userSvc",
+    "packageName": "com.nola.raj.user",
+    "packageFolder": "com/nola/raj/user",
+    "serverPort": "8098",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NGNiZDI4ODk5NWY4ZmM2ODIyMzU2MmQyZTI3YTU0YzNjNTQ5MGUyMjllN2IzZjJhZDRiYWU0ODRjZGNiNjM5N2ZjNThkZDE2MDcxZWFlMzcxY2I2YWJlNDZhYjdkYTMwNDg5ODFjMTkxMjEzZGY0ZDMxY2JjMWYyMzUxMTkzOGY=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
